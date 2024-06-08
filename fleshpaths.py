@@ -1,0 +1,5 @@
+fs_com = 'Assets/Sprites/Extra2/FleshArt/'
+fs_face = fs_com + 'HappyFace_pixian_ai.png'
+fs_octo = fs_com + 'Octopus_pixian_ai.png'
+fs_peace = fs_com + 'RestAndPeace_pixian_ai.png'
+fs_man = fs_com + 'SnowMan_pixian_ai.png'

@@ -1,0 +1,7 @@
+so_com = 'Assets/Music/Action/'
+so_slow_clock = so_com + 'Slow_clock.ogg'
+so_short_scream_m = so_com + 'Short_scream_m.ogg'
+so_explosion = so_com + 'Explosion.ogg'
+so_liz_eat = so_com + 'Lizard_eats.ogg'
+so_liz_hoy = so_com + 'Lizard_hungry.ogg'
+so_scary = so_com + 'Scary_snd.ogg'
